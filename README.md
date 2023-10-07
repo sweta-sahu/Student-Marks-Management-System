@@ -4,4 +4,5 @@ CRUD operations using Python and Oracle
 
 ## Technologies
 
-Markup : - Python - Oracle 11g
+- Python
+- Oracle 11g
