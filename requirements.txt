@@ -1,0 +1,6 @@
+tk
+cx_Oracle
+matplotlib
+numpy
+bs4
+requests
